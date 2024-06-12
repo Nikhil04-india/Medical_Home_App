@@ -1,7 +1,7 @@
 # Medical Home
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Medical Home Logo" width="150" height="150">
+  <img src="app/src/main/res/drawable/applogo.jpg" alt="Medical Home Logo" width="150" height="150">
 </p>
 
 <p align="center">
