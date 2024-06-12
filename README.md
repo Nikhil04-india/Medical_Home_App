@@ -48,7 +48,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/medical-home.git
+   gh repo clone Nikhil04-india/Medical_Home_App
 2. **Open the project in Android Studio:**
 
     - Open Android Studio.
@@ -62,7 +62,7 @@
 
     - Click on the Run button or select Run > Run 'app'.
 
-3. **Usage**
+## Usage
    **Generate a Signed APK:**
 
     Go to Build > Generate Signed Bundle / APK.
@@ -74,8 +74,8 @@
     Host the APK file on a cloud storage service (Google Drive, Dropbox) to get a direct download link.
     Create a landing page to provide an easy download link for users.
 
-4. **License**
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-5. **Contact**
+## Contact
 For any inquiries or support, please contact nikagarwal983@gmail.com.
